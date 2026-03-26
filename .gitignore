@@ -1,0 +1,16 @@
+__pycache__/
+.vscode/
+logs/
+runs/
+
+Yolo/TestCup
+Yolo/BigBlue
+Yolo/greenBottle
+Yolo/greenBottle0306
+Yolo/greenBottle0307
+Yolo/greenBottle0318
+Yolo/greenBottle0319
+
+aruco_pose.py
+aruco_tags_A4.pdf
+old_client.py

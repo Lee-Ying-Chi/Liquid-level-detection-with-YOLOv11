@@ -29,7 +29,6 @@ The current pipeline detects the bottle and liquid region, extracts a 1D profile
 - [telemetry.py](/c:/Users/Emma/Documents/Surface_Height_Client/telemetry.py): Terminal telemetry and CSV logging
 - [Surface_Height_Client.py](/c:/Users/Emma/Documents/Surface_Height_Client/Surface_Height_Client.py): WebSocket client
 - [opencam.py](/c:/Users/Emma/Documents/Surface_Height_Client/opencam.py): Minimal camera preview
-- [gen_aruco_tags.py](/c:/Users/Emma/Documents/Surface_Height_Client/gen_aruco_tags.py): Legacy/utility script for generating ArUco tags
 
 ## Requirements
 
